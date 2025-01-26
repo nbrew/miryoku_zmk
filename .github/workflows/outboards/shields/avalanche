@@ -1,0 +1,7 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=levilentz/avalanche-shield-module
+outboard_ref=main
+outboard_from=boards/shields/avalanche
+outboard_to=boards/shields/avalanche
